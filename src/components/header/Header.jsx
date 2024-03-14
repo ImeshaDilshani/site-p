@@ -8,7 +8,7 @@ const Header = () => {
             <a href="index.html" className="nav__logo">Smith</a>
 
             <div className="nav__menu">
-                <ul className="nav_list grid">
+                <ul className="nav__list grid">
                     <li className="nav__item">
                         <a href="#home" className="nal__link">
                             <i className="uil uil-estate nav icon"></i>Home
