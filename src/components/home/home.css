@@ -11,6 +11,7 @@
     display: grid;
     grid-template-columns: max-content;
     row-gap: 1rem;
+    list-style-type: none;
 }
 .home__social-icon{
     font-size: 1.25rem;
