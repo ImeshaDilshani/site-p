@@ -4,6 +4,7 @@ import Header from './components/header/Header'; // Change the import statement 
 import Home from './components/home/Home'; // Change the import statement to match the casing of the actual file name
 import About from './components/about/About';
 import Skills from './components/skills/Skills';
+import Services from './components/services/Services'; // Add the import statement for the Services component
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Home/>
         <About/>
         <Skills/>
+        <Services/>
       </main>
     </div>
   );
