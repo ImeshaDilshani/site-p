@@ -95,7 +95,7 @@
 .services__modal-service{
     display: flex;
     align-items: center;
-    column-gap: 5rem;
+    column-gap: 1rem;
 }
 
 .services__modal-icon{
