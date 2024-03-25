@@ -5,6 +5,7 @@ import Home from './components/home/Home'; // Change the import statement to mat
 import About from './components/about/About';
 import Skills from './components/skills/Skills';
 import Services from './components/services/Services'; // Add the import statement for the Services component
+import Qualification from './components/qualification/Qualification'; // Add the import statement for the Qualification component
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <About/>
         <Skills/>
         <Services/>
+        <Qualification/>
       </main>
     </div>
   );
