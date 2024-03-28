@@ -6,6 +6,7 @@ import About from './components/about/About';
 import Skills from './components/skills/Skills';
 import Services from './components/services/Services'; // Add the import statement for the Services component
 import Qualification from './components/qualification/Qualification'; // Add the import statement for the Qualification component
+import Testimonials from './components/testimonials/Testimonials'; // Add the import statement for the Testimonials component
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Skills/>
         <Services/>
         <Qualification/>
+        <Testimonials/>
       </main>
     </div>
   );
