@@ -41,6 +41,11 @@
     font-weight: var(--font-medium);
 }
 
+.contact__card-data{
+    display: block;
+    margin-bottom: var(--mb-0-75);
+}
+
 .contact__button{
     color: var(--text-color);
     font-size: var(--small-font-size);
@@ -79,13 +84,15 @@
     border-radius: 0.75rem;
     padding: 1.5rem;
     z-index: 1;
+    color: var(--title-color);
+    outline: none;
 }
 
 .contact__form-tag{
     position: absolute;
     top: -0.75rem;
     left: 1.25rem;
-    font-size: var(--small-font-size);
+    font-size: var(--smaller-font-size);
     padding: 0.25rem;
     background-color: var(--body-color);
     z-index: 10;
