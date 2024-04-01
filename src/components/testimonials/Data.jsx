@@ -5,23 +5,23 @@ import Image3 from '../../assets/testimonial3.png';
 export const Data = [
     {
       id: 1,
-      image: Image1,
-      title: "Jhon Doe",
+      // image: Image1,
+      title: "Mikkel B.",
       description:
-        "A really good job, all aspects of the project were followed step by step and with good results.",
+        "Did everything really well",
     },
     {
       id: 2,
-      image: Image2,
-      title: "Harry Clinton",
+      // image: Image2,
+      title: "Robert D.",
       description:
-        "A really good job, all aspects of the project were followed step by step and with good results.",
+      "Great job again, highly recommend.",
     },
     {
       id: 3,
-      image: Image3,
-      title: "Sara Cill",
+      // image: Image3,
+      title: "Robert D.",
       description:
-        "A really good job, all aspects of the project were followed step by step and with good results.",
+        "will use this freelancer again for sure.",
     },
   ];
