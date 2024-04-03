@@ -7,13 +7,13 @@ const Footer = () => {
       <div className="footer__container container">
         <h1 className="footer__title">Imesha</h1>
 
-        <ul classNames="footer__list">
-          <li>
+        <ul className="footer__list">
+          <li >
             <a href="#about" className="footer__link">About</a>
           </li>
 
           <li>
-            <a href="#projects" className="footer__link">Projects</a>
+            <a href="#portfolio" className="footer__link">Projects</a>
           </li>
 
           <li>
@@ -35,7 +35,7 @@ const Footer = () => {
             </a>
         </div>
 
-        <span className='footer__copy'>&#169; Imesha Dilshani. All rigths reserved</span>
+        <span className='footer__copy'>&#169; Imesha Dilshani. All rights reserved</span>
       </div>
     </footer>
   )
