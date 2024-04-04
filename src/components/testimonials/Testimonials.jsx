@@ -3,7 +3,8 @@ import "./testimonials.css"
 import {Data} from './Data'
 //Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Pagination } from 'swiper';
+// import { Pagination } from 'swiper';
+import { Pagination } from 'swiper/modules';
 
 
 //Import Swiper styles
@@ -25,7 +26,7 @@ const Testimonials = () => {
         spaceBetween={24}
         pagination={{
             "clickable": true
-        }}
+        }}sss
         breakpoints={{
             576: {
                 slidesPerView: 2,
@@ -35,6 +36,7 @@ const Testimonials = () => {
                 spaceBetween: 48,
             },
         }}
+        modules={[Pagination]}
         >
             {Data.map(({id,image,title,description}) => {
                 return(

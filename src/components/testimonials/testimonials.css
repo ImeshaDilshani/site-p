@@ -34,6 +34,8 @@
     background-color: var(--first-color) !important;
 }
 
+
+
 /*=============== BREAKPOINTS ===============*/
 /* For large devices */
 @media screen and (max-width: 992px) {
