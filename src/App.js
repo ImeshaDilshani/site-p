@@ -6,6 +6,8 @@ import About from './components/about/About';
 import Skills from './components/skills/Skills';
 import Services from './components/services/Services'; // Add the import statement for the Services component
 import Qualification from './components/qualification/Qualification'; // Add the import statement for the Qualification component
+// import Work from './components/work/Work'; // Add the import statement for the Work component
+import Work from './components/work/Work'; // Change the import statement to match the casing of the actual file name
 import Testimonials from './components/testimonials/Testimonials'; // Add the import statement for the Testimonials component
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
@@ -21,6 +23,8 @@ function App() {
         <Skills/>
         <Services/>
         <Qualification/>
+        {/* <Work/> */}
+        <Work/>
         <Testimonials/>
         <Contact/>
         
