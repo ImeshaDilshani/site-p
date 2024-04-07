@@ -13,7 +13,14 @@ const About = () => {
           <img src={AboutImg} alt="" className="about__img" />
           <div className="about__data">
             <Info/>
-            <p className="about__description">I'm looking for opportunities to collaborate, learn from industry professionals, or work with innovative technologies that can shape the future.</p>
+            <p className="about__description"> Skilled Computer Science undergraduate with a background in
+                                                Data Science and experience building software applications
+                                                using Python, React and other languages. Possess a strong
+                                                analytical mind honed through data analysis projects using
+                                                Python and Microsoft Power BI, coupled with a keen eye for
+                                                design. Eager to leverage my combined skillset in data science,
+                                                software engineering and graphic design to contribute to
+                                                innovative solutions in the tech industry.</p>
             <a download="" href={CV} className="button button-flex">Download CV
             <svg
                 class="button__icon"
