@@ -6,7 +6,7 @@ import Work5 from "../../assets/work5.jpg";
 import Work6 from "../../assets/work6.jpg";
 import Work7 from "../../assets/work7.jpg";
 import Work8 from "../../assets/work8.jpg";
-import Work9 from "../../assets/work9.jpg";
+import work9 from "../../assets/work9.jpg";
 import Work10 from "../../assets/work10.jpg";
 import Work11 from "../../assets/work11.jpg";
 
@@ -59,12 +59,12 @@ export const projectsData = [
       title: "My portfolio website",
       category: "web application",
     },
-    {
-      id: 9,
-      image: Work9,
-      title: "News App",
-      category: "web application",
-    },
+    // {
+    //   id: 9,
+    //   image: work9,
+    //   title: "News App",
+    //   category: "web application",
+    // },
     {
       id: 10,
       image: Work10,
