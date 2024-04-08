@@ -8,31 +8,31 @@ export const projectsData = [
     {
       id: 1,
       image: Work1,
-      title: "Web design",
+      title: "Sales Data Analysis",
       category: "web",
     },
     {
       id: 2,
       image: Work2,
-      title: "App movil",
+      title: "Movies Project FrontEnd ",
       category: "app",
     },
     {
       id: 3,
       image: Work3,
-      title: "Brand design",
+      title: "Airline Reservation System",
       category: "design",
     },
     {
       id: 4,
       image: Work4,
-      title: "App movil",
+      title: "Toy Sale Visualization",
       category: "app",
     },
     {
       id: 5,
       image: Work5,
-      title: "Web design",
+      title: "COVID-19 Analysis PowerBI",
       category: "web",
     },
   ];
