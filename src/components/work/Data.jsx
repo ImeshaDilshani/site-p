@@ -3,37 +3,79 @@ import Work2 from "../../assets/work2.jpg";
 import Work3 from "../../assets/work3.jpg";
 import Work4 from "../../assets/work4.jpg";
 import Work5 from "../../assets/work5.jpg";
+import Work6 from "../../assets/work6.jpg";
+import Work7 from "../../assets/work7.jpg";
+import Work8 from "../../assets/work8.jpg";
+import Work9 from "../../assets/work9.jpg";
+import Work10 from "../../assets/work10.jpg";
+import Work11 from "../../assets/work11.jpg";
 
 export const projectsData = [
     {
       id: 1,
       image: Work1,
       title: "Sales Data Analysis",
-      category: "web",
+      category: "Data Science",
     },
     {
       id: 2,
       image: Work2,
       title: "Movies Project FrontEnd ",
-      category: "app",
+      category: "web application",
     },
     {
       id: 3,
       image: Work3,
       title: "Airline Reservation System",
-      category: "design",
+      category: "web application",
     },
     {
       id: 4,
       image: Work4,
       title: "Toy Sale Visualization",
-      category: "app",
+      category: "Data Science",
     },
     {
       id: 5,
       image: Work5,
       title: "COVID-19 Analysis PowerBI",
-      category: "web",
+      category: "Data Science",
+    },
+    {
+      id: 6,
+      image: Work6,
+      title: "Customer Churn Analysis",
+      category: "Data Science",
+    },
+    {
+      id: 7,
+      image: Work7,
+      title: "Diabetes Prediction System",
+      category: "Data Science",
+    },
+    {
+      id: 8,
+      image: Work8,
+      title: "My portfolio website",
+      category: "web application",
+    },
+    {
+      id: 9,
+      image: Work9,
+      title: "News App",
+      category: "web application",
+    },
+    {
+      id: 10,
+      image: Work10,
+      title: "FishSnap Mobile App",
+      category: "web application",
+    },
+    {
+      id: 9,
+      image: Work11,
+      title: "Restaurant Website",
+      category: "web application",
     },
   ];
 
@@ -42,12 +84,15 @@ export const projectsData = [
         name: "all",
     },
     {
-        name: "web",
+        name: "web application",
     },
     {
-        name: "app",
+        name: "Data Science",
     },
-    {
-        name: "design",
-    },
+  //   {
+  //       name: "Graphic Design",
+  //   },
+  //   {
+  //     name: "Mobile App",
+  // },
   ]
