@@ -144,7 +144,7 @@ const Qualification = () => {
                            <h3 className="qualification__title">Graphic Design</h3>
                            <span className="qualification__subtitle"> INTECH Collage - Gampaha</span>
                             <div className="qualification__calender">
-                               <i className="uil uil-calendar-alt">2021 - Present</i>
+                               <i className="uil uil-calendar-alt">2018 - 2019</i>
                             </div>
                         </div>
                         
