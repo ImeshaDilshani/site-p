@@ -25,11 +25,10 @@ const About = () => {
                                                 
                                                 Hi! I'm Imesha Dilshani, a computer science undergraduate with a background in
                                                 Data Science who loves working with data, building software, and making things look great.
-                                                <br/>
                                                 I'm good at using tools like Python and Power BI to analyze information and find patterns and I love to build programs with Python, React, and other tools. I've also got an eye for design, so I can make computer programs look nice and easy to use.
                                                 <br/>
-                                                What I really enjoy is using all these skills together. I want to use my knowledge of data, software, and design to help create new and exciting things in the tech world.
                                                 <br/>
+                                                What I really enjoy is using all these skills together. I want to use my knowledge of data, software, and design to help create new and exciting things in the tech world.
                                                 I'm always looking for new challenges and ways to make a difference. So, if you have a project in mind, let's chat!
 
                                                 </p>
