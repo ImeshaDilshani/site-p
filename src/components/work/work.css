@@ -100,7 +100,9 @@
         grid-template-columns: 1fr;
     }
     .work__card{
-        width: 20rem;
+        width: 18rem;
+        /* align-items: center;
+        align-content: center; */
     }
 }
 
