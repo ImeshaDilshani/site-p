@@ -1,6 +1,6 @@
 import React from 'react'
 // import "./about.css"
-import AboutImg from "../../assets/about.png"
+import AboutImg from "../../assets/team.jpeg"
 // import CV from "../../assets/Imesha-CV.pdf"
 // import Info from './info'
 
@@ -8,19 +8,16 @@ const About = () => {
   return (
     <section className="about section" id='about'>
       <h2 className="section__title">Community Work</h2>
-        <span className="section__subtitle">My Contribution</span>
+        <span className="section__subtitle">My Contribution to Open-Source Summit '24 </span>
         <div className="about__container container grid">
           <img src={AboutImg} alt="" className="about__img" />
           <div className="about__data">
             {/* <Info/> */}
-            <p className="about__description"> Skilled Computer Science undergraduate with a background in
-                                                Data Science and experience building software applications
-                                                using Python, React and other languages. Possess a strong
-                                                analytical mind honed through data analysis projects using
-                                                Python and Microsoft Power BI, coupled with a keen eye for
-                                                design. Eager to leverage my combined skillset in data science,
-                                                software engineering and graphic design to contribute to
-                                                innovative solutions in the tech industry.</p>
+            <p className="about__description"> We are thrilled to have successfully concluded the Open Source Summit '24 
+            at FOSS Community - University of Kelaniya!
+            <br/>
+            Deepest gratitude to our esteemed speakers: Jayasanka Weerasinghe, Anuradha Weeraman, Sanjaya Bentotage, Haritha Thilakarathne, Kanishka Wijayasekara, Ruwanthi Abeywickrama, Sahan Rathnayake, and Sashika Suren for sharing their knowledge and expertise.
+            <br /> Thank you to everyone who participated, contributed, and made this an unforgettable journey.</p>
             {/* <a download="" href={CV} className="button button-flex">Download CV */}
             {/* <svg
                 class="button__icon"
@@ -48,6 +45,7 @@ const About = () => {
                 ></path>
               </svg> */}
               {/* </a> */}
+              <a href="https://fossuok.org/summit/" className="button button-flex">Event Info</a>
           </div>
         </div>
     </section>
