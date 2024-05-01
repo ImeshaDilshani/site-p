@@ -16,7 +16,7 @@ const About = () => {
             <p className="about__description"> We are thrilled to have successfully concluded the Open Source Summit '24 
             at FOSS Community - University of Kelaniya!
             <br/>
-            Deepest gratitude to our esteemed speakers: Jayasanka Weerasinghe, Anuradha Weeraman, Sanjaya Bentotage, Haritha Thilakarathne, Kanishka Wijayasekara, Ruwanthi Abeywickrama, Sahan Rathnayake, and Sashika Suren for sharing their knowledge and expertise.
+            As the event coordinator of the Open Source Summit '24, I'm incredibly grateful to have been part of this amazing experience. The dedication and collaboration of the entire team were truly inspiring. 
             <br /> Thank you to everyone who participated, contributed, and made this an unforgettable journey.</p>
             {/* <a download="" href={CV} className="button button-flex">Download CV */}
             {/* <svg
