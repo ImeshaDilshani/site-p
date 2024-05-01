@@ -99,6 +99,9 @@
     .work__container{
         grid-template-columns: 1fr;
     }
+    .work__card{
+        width: 20rem;
+    }
 }
 
 @media screen and (max-width: 350px) {
@@ -109,5 +112,6 @@
     .work__filters{
         column-gap: 0.25rem;
     }
+    
   }
   
