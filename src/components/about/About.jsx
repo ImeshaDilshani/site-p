@@ -29,7 +29,7 @@ const About = () => {
                                                 <br/>
                                                 <br/>
                                                 What I really enjoy is using all these skills together. I want to use my knowledge of data, software, and design to help create new and exciting things in the tech world.
-                                                I'm always looking for new challenges and ways to make a difference. So, if you have a project in mind, let's chat!
+                                                I'm always looking for new challenges and ways to make a difference.
 
                                                 </p>
             <a download="" href={CV} className="button button-flex">Download CV
