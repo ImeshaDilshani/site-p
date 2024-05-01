@@ -9,6 +9,7 @@ import Qualification from './components/qualification/Qualification'; // Add the
 // import Work from './components/work/Work'; // Add the import statement for the Work component
 import Work from './components/work/Work'; // Change the import statement to match the casing of the actual file name
 import Testimonials from './components/testimonials/Testimonials'; // Add the import statement for the Testimonials component
+import Community from './components/community/Community'; // Add the import statement for the Community component
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import ScrollUp from './components/scrollup/ScrollUp'; // Add the import statement for the ScrollUp component
@@ -26,6 +27,7 @@ function App() {
         {/* <Work/> */}
         <Work/>
         <Testimonials/>
+        <Community/>
         <Contact/>
         
       </main>
