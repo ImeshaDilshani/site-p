@@ -1,4 +1,5 @@
 import React from 'react'
+import freelancerLogo from '../../assets/freelancer-logo.png';
 
 const Social = () => {
   return (
@@ -16,6 +17,9 @@ const Social = () => {
 
         <a href="https://www.linkedin.com/in/imesha-dilshani-61862422b/" className="home__social-icon" target='_blank'>
             <li className="uil uil-linkedin"></li>
+        </a>
+        <a href="https://www.freelancer.pk/u/imeshadilshani03" className="home__social-icon" target='_blank'>
+            <li className="uil uil-briefcase-alt"></li> 
         </a>
 
     </div>
