@@ -23,7 +23,7 @@ export const projectsData = [
       image: Work2,
       title: "Movies Project FrontEnd ",
       category: "web application",
-      githubLink: "https://github.com/your-username/sales-data-analysis",
+      githubLink: "https://github.com/ImeshaDilshani/Movie-Frontend-React.git",
     },
     {
       id: 3,
@@ -65,7 +65,7 @@ export const projectsData = [
       image: Work8,
       title: "My portfolio website",
       category: "web application",
-      githubLink: "https://github.com/your-username/sales-data-analysis",
+      githubLink: "https://github.com/ImeshaDilshani/personal-site.git",
     },
     // {
     //   id: 9,
@@ -78,14 +78,14 @@ export const projectsData = [
       image: Work10,
       title: "FishSnap Mobile App",
       category: "web application",
-      githubLink: "https://github.com/your-username/sales-data-analysis",
+      githubLink: "https://github.com/FishSnap-2023/Fishsnap-Frontend.git",
     },
     {
       id: 9,
       image: Work11,
       title: "Restaurant Website",
       category: "web application",
-      githubLink: "https://github.com/your-username/sales-data-analysis",
+      githubLink: "https://github.com/Minute-Magic/tasty-react.git",
     },
   ];
 
