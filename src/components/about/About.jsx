@@ -13,14 +13,26 @@ const About = () => {
           <img src={AboutImg} alt="" className="about__img" />
           <div className="about__data">
             <Info/>
-            <p className="about__description"> Skilled Computer Science undergraduate with a background in
+            <p className="about__description"> 
+            {/* Skilled Computer Science undergraduate with a background in
                                                 Data Science and experience building software applications
                                                 using Python, React and other languages. Possess a strong
                                                 analytical mind honed through data analysis projects using
                                                 Python and Microsoft Power BI, coupled with a keen eye for
                                                 design. Eager to leverage my combined skillset in data science,
                                                 software engineering and graphic design to contribute to
-                                                innovative solutions in the tech industry.</p>
+                                                innovative solutions in the tech industry. */}
+                                                
+                                                Hi! I'm Imesha Dilshani, a computer science undergraduate with a background in
+                                                Data Science who loves working with data, building software, and making things look great.
+                                                <br/>
+                                                I'm good at using tools like Python and Power BI to analyze information and find patterns and I love to build programs with Python, React, and other tools. I've also got an eye for design, so I can make computer programs look nice and easy to use.
+                                                <br/>
+                                                What I really enjoy is using all these skills together. I want to use my knowledge of data, software, and design to help create new and exciting things in the tech world.
+                                                <br/>
+                                                I'm always looking for new challenges and ways to make a difference. So, if you have a project in mind, let's chat!
+
+                                                </p>
             <a download="" href={CV} className="button button-flex">Download CV
             <svg
                 class="button__icon"
