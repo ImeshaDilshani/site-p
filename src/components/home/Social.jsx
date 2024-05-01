@@ -22,6 +22,13 @@ const Social = () => {
             <li className="uil uil-briefcase-alt"></li> 
         </a>
 
+        <a href="https://medium.com/@imeshadilshani212" className="home__social-icon" target='_blank'>
+        {/* Replace "your-medium-username" with your actual Medium username */}
+        <li className="uil uil-edit"></li>
+
+        {/* You can use a proper Medium icon here if you have one */}
+      </a>
+
     </div>
   )
 }
