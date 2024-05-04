@@ -65,7 +65,7 @@ export const projectsData = [
       image: Work8,
       title: "My portfolio website",
       category: "web application",
-      githubLink: "https://github.com/ImeshaDilshani/personal-site.git",
+      githubLink: "https://github.com/ImeshaDilshani/site-p.git",
     },
     // {
     //   id: 9,
