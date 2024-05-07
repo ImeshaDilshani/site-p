@@ -40,11 +40,11 @@ const Header = () => {
                         </a>
                     </li>
 
-                    <li className="nav__item">
+                    {/* <li className="nav__item">
                         <a href="#contact" className="nav__link">
                             <i className="uil uil-message nav__icon"></i>Contact
                         </a>
-                    </li>
+                    </li> */}
                 </ul>
                 <i className="uil uil-times nav__close" onClick={()=>showMenu(!Toggle)}></i>
             </div>
